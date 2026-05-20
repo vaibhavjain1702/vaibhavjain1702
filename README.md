@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Deep+Learning+%7C+Computer+Vision;Building+Scalable+AI+Systems;FastAPI+%7C+Python+%7C+AI+Planning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Deep+Learning+%7C+Computer+Vision;Building+Scalable+AI+Systems;FastAPI+%7C+Python+%7C+AI+Planning;Always+Learning+%26+Building" />
 
 <br/>
 
@@ -16,10 +16,10 @@
 
 ## 🚀 About Me
 
-- 🧠 Building AI-powered systems with real-world impact  
-- 💻 Focused on Deep Learning, Computer Vision & AI Planning  
-- ⚡ Interested in scalable and explainable AI systems  
-- 📊 Working with FastAPI, Python, ML Pipelines & Optimization Algorithms  
+- 🧠 Building intelligent AI systems with real-world applications  
+- 💻 Interested in Deep Learning, Computer Vision & AI Planning  
+- ⚡ Focused on scalable, explainable & production-ready systems  
+- 📊 Exploring optimization, analytics & modern ML pipelines  
 
 ---
 
@@ -31,13 +31,13 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,java,sql" />
 
 ### AI / ML
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
 ### Backend & Tools
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git,linux" />
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,linux,streamlit" />
 
-### Libraries & Frameworks
-<img src="https://skillicons.dev/icons?i=opencv" />
+### Databases & Dev Tools
+<img src="https://skillicons.dev/icons?i=mysql,vscode,jupyter" />
 
 </div>
 
@@ -45,20 +45,30 @@
 
 ## 📌 Featured Projects
 
-### 🩺 AI-Powered Glaucoma Detection System
-- Deep Learning + DIP pipeline for glaucoma detection
+### ⚽ Football Highlights Detection System
+- AI-powered football highlights generation pipeline
+- Event detection using Computer Vision techniques
+- Automated extraction of key gameplay moments
+
+### 🧠 CBAM-Based Deep Learning System
+- Attention-based CNN architecture using CBAM modules
+- Improved feature extraction & model interpretability
+- Focused on high-performance visual learning tasks
+
+### 🩺 AI-Powered Glaucoma Detection
 - EfficientNet-B0 + CLAHE + Grad-CAM
-- FastAPI deployment with explainable predictions
+- Multi-stage glaucoma classification pipeline
+- Explainable medical AI with FastAPI deployment
 
 ### ✈️ Travel Itinerary AI Engine
 - CSP + A* Search + Fuzzy Logic
-- Constraint-safe itinerary generation
-- Deterministic AI planning engine
+- Constraint-safe AI planning engine
+- Optimized and personalized travel generation
 
 ### 📈 Big Data Stock Market Analysis
-- Time-series forecasting pipeline
-- MapReduce-inspired analytics workflow
-- Ensemble model benchmarking
+- Time-series forecasting & analytics pipeline
+- MapReduce-inspired architecture
+- Ensemble model benchmarking on OHLCV data
 
 ---
 
